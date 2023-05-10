@@ -14,7 +14,7 @@
 
 <br>
 
-- A Passionate Self-taught Web developer.
+- A Passionate Self-taught Full-stack Web developer.
 - Agricultural and Biosystems Engineering Graduate, Alexandria university.
 - Currently, I'm Learning Front-End Development.
 
