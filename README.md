@@ -8,6 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#0080ff&vCenter=true&size=22"></a>
 </p> 
 
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -28,6 +30,9 @@ class FullStackDeveloper:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+
+
 ### Languages and Tools 🛠 : 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -45,11 +50,17 @@ me.say_hi()
 - ### I’m currently learning 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
+
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mahmoud-dwidar-2000/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Dwidar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mahmouddwidar23@gmail.com)](mailto:mahmouddwidar23@gmail.com)
 
+
+
 <a href="https://komarev.com/ghpvc/?username=mahmouddwidar&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mahmouddwidar&style=for-the-badge">
 </a>
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
