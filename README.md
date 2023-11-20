@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Dwidar</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0"></a>
 </p>
 
 
