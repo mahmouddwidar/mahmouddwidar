@@ -1,57 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Dwidar</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0"></a>
-</p>
-
-
-<br>
+[![Account: LinkedIn](https://img.shields.io/badge/Mahmoud%20Dwidar-LinkedIn-0077b5)](https://www.linkedin.com/in/mahmoud-dwidar-2000/)
+[![Account: Gmail](https://img.shields.io/badge/Mahmoud%20Dwidar-Gmail-d14836)](mailto:mahmouddwidar23@gmail.com)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/mahmouddwidar/mahmouddwidar/blob/main/Mahmoud-Dwidar-Resume.pdf)
+<span> <img src="https://komarev.com/ghpvc/?username=mahmouddwidar&label=Profile%20views&color=0e75b6&style=flat" alt="mahmouddwidar" /> </span>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 350px></picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Mahmoud+Dwidar.;I+am+a+Full-Stack+Developer.;and+my+interests+include+%5BPHP+%2C+Laravel+%2C+React.js%5D" alt="Typing SVG" /></a>
 
 <br>
 
-- A Passionate Self-taught Full-stack Web developer.
-- Agricultural and Biosystems Engineering Graduate, Alexandria university.
-- Currently, I'm Learning Front-End Development.
+```php
+namespace App\Http\Controllers;
+use Illuminate\Http\Request;
 
-<br>
+class IntroductionController extends Controller
+{
+    public function introduceYourself(Request $request)
+    {
+        $name = $request->input('name', 'Mahmoud Dwidar');
+        $occupation = $request->input('occupation', 'Full-Stack Developer');
+        $interests = $request->input('interests', ['PHP', 'Laravel', 'React.js']);
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+        $introduction = "Hello, my name is {$name}. I am a {$occupation} and my interests include " . implode(', ', $interests) . ".";
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
-
-
-##### 💪 Programming Languages
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-
-
-##### 💪 Front-End Development
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-<a href="#"><img src="https://img.shields.io/badge/bootstrap-6a329f?style=for-the-badge&logo=bootstrap&logoColor=violet" alt="Bootstrap"></a>
-
-
-##### 💪 Back-End Development
-<a href="#"><img src="https://img.shields.io/badge/django-274e13?style=for-the-badge&logo=django&logoColor=White" alt="Django"></a>
-<a href="#"><img src="https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"></a>
-<a href="#"><img src="https://img.shields.io/badge/sqlite-0078D4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
-
-
-##### 💪 Web Scraping
-<a href="#"><img alt="Beautifulsoup" src="https://img.shields.io/badge/beautifulsoup-3d85c6?style=for-the-badge&logo=beautifulsoup&logoColor=black"></a>
-<a href="#"><img alt="Requests" src="https://img.shields.io/badge/requests-3d85c6?style=for-the-badge&logo=requests&logoColor=black"></a>
-<a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-bcbcbc?style=for-the-badge&logo=Selenium&logoColor=black"></a>
-
-
-##### 💪 Collaboration
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+        return response()->json(['introduction' => $introduction]);
+    }
+}
+```
 
 <hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.vectorlogo.zone/logos/php/php-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://glot.io/static/img/javascript.svg.png?etag=UxyNBZrt" alt="Javascript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+</p>
+
+<hr>
+
     
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
@@ -59,26 +54,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmouddwidar&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mahmouddwidar" />
 </p>
 
-<p align="center">      
-<a href="https://github.com/mahmouddwidar">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahmouddwidar&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmouddwidar&theme=gruvbox&hide_border=true" />
-</a>
-</p>
-
-
-<hr>
-
-
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mahmoud-dwidar-2000/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
-<a href="mailto:mahmouddwidar23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
-
-<p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmouddwidar&label=Profile%20views&color=0e75b6&style=flat" alt="mahmouddwidar" /> </p>
-</p>
+## ⚡ Fun fact
+- “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
       
 
 
