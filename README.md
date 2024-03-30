@@ -51,7 +51,7 @@ class IntroductionController extends Controller
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmouddwidar&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mahmouddwidar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmouddwidar&show_icons=true&theme=radical&locale=en&layout=compact" alt="mahmouddwidar" />
 </p>
 
 ## ⚡ Fun fact
