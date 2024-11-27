@@ -1,6 +1,6 @@
 [![Account: LinkedIn](https://img.shields.io/badge/Mahmoud%20Dwidar-LinkedIn-0077b5)](https://www.linkedin.com/in/mahmoud-dwidar-2000/)
 [![Account: Gmail](https://img.shields.io/badge/Mahmoud%20Dwidar-Gmail-d14836)](mailto:mahmouddwidar23@gmail.com)
-[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/mahmouddwidar/mahmouddwidar/blob/main/MahmoudDwidar_FullStackDeveloper.pdf)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/mahmouddwidar/mahmouddwidar/blob/main/Mahmoud%20Dwidar.pdf)
 [![Account: CodePen](https://img.shields.io/badge/Mahmoud%20Dwidar-CodePen-000000)](https://codepen.io/mahmouddwidar)
 <span> <img src="https://komarev.com/ghpvc/?username=mahmouddwidar&label=Profile%20views&color=0e75b6&style=flat" alt="mahmouddwidar" /> </span>
 
