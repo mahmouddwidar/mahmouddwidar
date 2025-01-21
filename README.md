@@ -56,7 +56,7 @@ class IntroductionController extends Controller
 </p>
 
 ## ⚡ Fun fact
-- “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+- “No one in the brief history of computing has ever written a piece of perfect software.” - Walter Isaacson
       
 
 
